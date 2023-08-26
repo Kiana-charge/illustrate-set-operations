@@ -1,0 +1,10 @@
+E = {0,2,4,6,8}
+N = {1,2,3,4,5}
+
+print ("The union of set E and N is: ", E | N)
+
+print ("The intersection of set E and N is: ", E & N)
+
+print ("The difference of set E and N is: ", E - N)
+
+print {"The Symmetric diffrence between set E and N is: ", E ^ N)
